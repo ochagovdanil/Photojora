@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ФотоЖора</string>
+
+    <!-- Main Activity -->
+    <string name="menu_bottom_navigation_view_history">История</string>
+    <string name="menu_bottom_navigation_view_photo">Сделать снимок</string>
+    <string name="menu_bottom_navigation_view_food">Блюда</string>
+
+    <!-- History Fragment -->
+    <string name="toolbar_title_history">Недавние рецепты</string>
+
+    <!-- Photo Fragment -->
+    <string name="button_show_recipes">Показать рецепты</string>
+
+    <!-- Food Fragment -->
+    <string name="toolbar_title_food">Подходящие рецепты</string>
+</resources>
